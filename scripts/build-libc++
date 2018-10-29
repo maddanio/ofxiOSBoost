@@ -391,7 +391,7 @@ updateBoost
 buildBoostForIPhoneOS
 scrunchAllLibsTogetherInOneLibPerPlatform
 buildIncludes
-#postcleanEverything
+postcleanEverything
 
 echo "Completed successfully"
 
